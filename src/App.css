@@ -13,10 +13,9 @@
 }
 
 /* custom scrollbar */
-.table-container::-webkit-scrollbar {
+/* .table-container::-webkit-scrollbar {
   width: 0.5rem;
-}
-
+} */
 /* custom scrollbar ends */
 
 .table-container {
